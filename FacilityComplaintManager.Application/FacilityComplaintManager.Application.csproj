@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CustomExceptions\" />
+    <Folder Include="DataTransfer\" />
+    <Folder Include="AutoMapper\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="BaseResponses\" />
+    <Folder Include="Validations\" />
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+</Project>

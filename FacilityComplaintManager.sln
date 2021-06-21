@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityComplaintManager.API", "FacilityComplaintManager\FacilityComplaintManager.API.csproj", "{508B3281-AFA3-4804-9F01-735534E980DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityComplaintManager.Identity", "FacilityComplaintManager.Identity\FacilityComplaintManager.Identity.csproj", "{F0264402-3CD0-4540-B74C-90009D910465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityComplaintManager.Persistence", "FacilityComplaintManager.Persistence\FacilityComplaintManager.Persistence.csproj", "{1564B327-B1CB-4B09-9127-8276FC87BC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityComplaintManager.Domain", "FacilityComplaintManager.Domain\FacilityComplaintManager.Domain.csproj", "{5344BFA5-0EB5-4BAB-B2FC-823406D5B0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityComplaintManager.Application", "FacilityComplaintManager.Application\FacilityComplaintManager.Application.csproj", "{239F2042-D1A2-48ED-AA72-C0D57935F8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityComplaintManager.Infrastructure", "FacilityComplaintManager.Infrastructure\FacilityComplaintManager.Infrastructure.csproj", "{A9048585-62FF-4D60-9645-D57A933A09E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508B3281-AFA3-4804-9F01-735534E980DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508B3281-AFA3-4804-9F01-735534E980DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508B3281-AFA3-4804-9F01-735534E980DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508B3281-AFA3-4804-9F01-735534E980DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0264402-3CD0-4540-B74C-90009D910465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0264402-3CD0-4540-B74C-90009D910465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0264402-3CD0-4540-B74C-90009D910465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0264402-3CD0-4540-B74C-90009D910465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1564B327-B1CB-4B09-9127-8276FC87BC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1564B327-B1CB-4B09-9127-8276FC87BC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1564B327-B1CB-4B09-9127-8276FC87BC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1564B327-B1CB-4B09-9127-8276FC87BC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5344BFA5-0EB5-4BAB-B2FC-823406D5B0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5344BFA5-0EB5-4BAB-B2FC-823406D5B0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5344BFA5-0EB5-4BAB-B2FC-823406D5B0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5344BFA5-0EB5-4BAB-B2FC-823406D5B0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239F2042-D1A2-48ED-AA72-C0D57935F8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239F2042-D1A2-48ED-AA72-C0D57935F8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239F2042-D1A2-48ED-AA72-C0D57935F8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239F2042-D1A2-48ED-AA72-C0D57935F8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9048585-62FF-4D60-9645-D57A933A09E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9048585-62FF-4D60-9645-D57A933A09E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9048585-62FF-4D60-9645-D57A933A09E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9048585-62FF-4D60-9645-D57A933A09E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DF31A23-8725-4C7C-8207-AA403CA04F93}
+	EndGlobalSection
+EndGlobal
